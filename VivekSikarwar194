@@ -54,7 +54,7 @@ logo = """
 
 ★●═════⚀●☆●☆●⚀══════●★~~~SYCO - BRAND~~~★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★~~~VIVEK-SARKAR-WAR194~~~★●═════⚀●☆●☆●⚀══════●★
+★●═════⚀●☆●☆●⚀══════●★~~~VIVEK-SIKARWAR194~~~★●═════⚀●☆●☆●⚀══════●★
 
 ███╗░░░███╗░█████╗░███████╗██╗░█████╗░
 ████╗░████║██╔══██╗██╔════╝██║██╔══██╗
@@ -77,9 +77,9 @@ logo = """
 \033[1;91m★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★
 \033[1;96mAuthor  \033[1;93m: \033[1;92mVIVEKSARKAR
 \033[1;96mInstagram \033[1;93m: \033[1; MAFIAking394
-\033[1;96mFacebook  \033[1;93m: \033[1; VivekSarkarWar194
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/MafiaKing394
-\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSARKAR-WAR194★●═════⚀●☆●☆●⚀══════●★"""
+\033[1;96mFacebook  \033[1;93m: \033[1; VivekSikarwar194
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/Mafiaking394
+\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSIKARWAR194★●═════⚀●☆●☆●⚀══════●★"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -98,13 +98,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★"
-print  """\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSARKAR-WAR194★●═════⚀●☆●☆●⚀══════●★
+print  """\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSIKARWAR194★●═════⚀●☆●☆●⚀══════●★
 \033[1;96mAuthor  \033[1;93m: \033[1;92mMAFIAKING394
 \033[1;96mInstagram \033[1;93m: \033[1;92mVIVEKSARKAR
-\033[1;96mFacebook  \033[1;93m: \033[1;92mVIVEKSARKARWAR194
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/MafiaKing394
+\033[1;96mFacebook  \033[1;93m: \033[1;92mVIVEKSIKARWAR194
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/Mafiaking394
 \033[1;91m★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★"""
-print " \x1b[1;93m★●═════⚀●☆●☆●⚀══════●★VivekSarkar-War194★●═════⚀●☆●☆●⚀══════●★"
+print " \x1b[1;93m★●═════⚀●☆●☆●⚀══════●★VivekSikar-War194★●═════⚀●☆●☆●⚀══════●★"
 
 CorrectUsername = "king"
 CorrectPassword = "vivek"
